@@ -1,0 +1,2 @@
+module Codeflagr
+end
